@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>**Login with valid username and invalid password</description>
+   <name>TC_03_LoginNegatif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e7ef5e8-d7d2-48bb-b61f-dab3ab62fb64</testCaseGuid>
+</TestCaseEntity>

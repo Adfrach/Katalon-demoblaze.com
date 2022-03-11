@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>**Verify contact us is working</description>
+   <name>TC_08_ContactUS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0027c977-0cce-4eba-acf2-cc941dcad9b4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>**Verify all items on category laptop are displayed</description>
+   <name>TC_06_CategoryLaptop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d34efe94-f7b1-4a76-a85b-96fbf95a82b6</testCaseGuid>
+</TestCaseEntity>

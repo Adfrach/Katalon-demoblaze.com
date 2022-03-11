@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>** Verify all item on categoy phone are visible</description>
+   <name>TC_05_CategoryPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>679c39c9-bf7b-44d1-a795-9d1471ee9456</testCaseGuid>
+</TestCaseEntity>

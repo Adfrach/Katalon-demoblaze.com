@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>**Verify a About us content is visible</description>
+   <name>TC_09_About Us</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4821d14d-d56c-4b79-9453-3ba0184f97d8</testCaseGuid>
+</TestCaseEntity>
